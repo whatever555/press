@@ -1,4 +1,4 @@
-echom 'STARTING PRESS'
+echom "STARTING PRESS"
 
 let initiated_press = 1
 let s:fully_loaded_press = 0
@@ -28,6 +28,6 @@ let s:fully_loaded_press = 0
   "return ''
 "endfunction
 
-echom 'LOADED'
+echom "LOADED"
 
 let s:fully_loaded_press = 1
